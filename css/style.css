@@ -1,0 +1,86 @@
+body {
+  padding: 10px;
+  margin: 10px;
+}
+
+h1 {
+  color: #fffafa;
+  text-align: center;
+  font-family: Oswald;
+}
+
+h3 {
+  color: #fffafa;
+  text-align: center;
+  font-family: Quattrocento;
+}
+
+.oswald {
+  color: #fffafa;
+  font-family: Oswald;
+}
+
+.quattrocento {
+  color: #fffafa;
+  font-family: Quattrocento;
+  letter-spacing: 0.5px;
+}
+
+.full-width {
+  background: #d3d3d3;
+  padding: 10px;
+  width: 440px;
+  overflow: hidden;
+  float: left;
+}
+
+.half-width {
+  width: 50%;
+  float: left;
+}
+
+#life {
+  background: #f7882f;
+  padding: 15% 10% 13% 10%;
+}
+
+#mind {
+  background: #f7c331;
+  padding: 21% 10% 22% 10%;
+  text-align: center;
+}
+
+#travel {
+  background: #6b7a8f;
+  padding: 30% 10% 32% 10%;
+  text-align: center;
+}
+
+#opps {
+  background: #dcc7aa;
+  padding: 30% 10% 32% 10%;
+  text-align: center;
+}
+
+#love {
+  background: #f7c331;
+  text-align: center;
+  padding: 18% 10% 18% 10%;
+}
+
+#stop {
+  background: #6b7a8f;
+  padding: 17% 10% 17% 10%;
+  text-align: center;
+}
+
+#passion {
+  background: #dcc7aa;
+  padding: 16% 10% 16% 10%;
+  text-align: center;
+}
+
+#people {
+  background: #f7882f;
+  padding: 7% 10% 7% 10%;
+}
